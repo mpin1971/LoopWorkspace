@@ -1,7 +1,8 @@
 #include? "../../LoopConfigOverride.xcconfig"
+MAIN_APP_DISPLAY_NAME = Loop3
 
 // Override this if you don't want the default com.${DEVELOPMENT_TEAM}.loopkit that loop uses
-MAIN_APP_BUNDLE_IDENTIFIER = com.6CMR38XH6.loopkit
+MAIN_APP_BUNDLE_IDENTIFIER = com.6CMR38XH62.loopkit
 
 // Customize this to change the app name displayed
 //MAIN_APP_DISPLAY_NAME = Loop3
